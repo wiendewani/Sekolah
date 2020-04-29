@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sekolah</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="api_key_android">AIzaSyBLOfhq8J9luJeIGl8joagBdM4ueaQ2yPY</string>
+    <string name="api_key_web">AIzaSyCEKcZs23v4siNoXAWTDxJar8ySMB-4bTc</string>
+</resources>
